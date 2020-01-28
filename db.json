@@ -11,54 +11,6 @@
             "index": 1,
             "name": "Stein",
             "defaultOrder": 7
-        },
-        {
-            "_id": "5e2e68a4cb3e99677a226f93",
-            "index": 2,
-            "name": "Merrill",
-            "defaultOrder": 4
-        },
-        {
-            "_id": "5e2e68a4eb6f66b2e49b2d77",
-            "index": 3,
-            "name": "Cotton",
-            "defaultOrder": 2
-        },
-        {
-            "_id": "5e2e68a4218f3a9b2c10c369",
-            "index": 4,
-            "name": "Arnold",
-            "defaultOrder": 6
-        },
-        {
-            "_id": "5e2e68a4d066541422a47af4",
-            "index": 5,
-            "name": "Barrera",
-            "defaultOrder": 5
-        },
-        {
-            "_id": "5e2e68a4328d210cc1d4cc6e",
-            "index": 6,
-            "name": "Lucas",
-            "defaultOrder": 1
-        },
-        {
-            "_id": "5e2e68a43abc80ac19db4a83",
-            "index": 7,
-            "name": "Richardson",
-            "defaultOrder": 8
-        },
-        {
-            "_id": "5e2e68a45e249c3b12b94a6d",
-            "index": 8,
-            "name": "Mcclain",
-            "defaultOrder": 10
-        },
-        {
-            "_id": "5e2e68a43e2ee31da14b5a91",
-            "index": 9,
-            "name": "Beard",
-            "defaultOrder": 9
         }
     ]
 }
