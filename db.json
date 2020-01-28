@@ -60,9 +60,5 @@
         "name": "Beard",
         "defaultOrder": 9
     }
-],
-  "product": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+]
 }
