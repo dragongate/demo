@@ -67,554 +67,554 @@
   }
 ],
     product: [
-        /* 1 */
+   /* 1 */
 {
-    "_id" : ObjectId("5e312c536876d13bc841e326"),
+    "_id" : "5e312c536876d13bc841e326",
     "name" : "กระชายฝอย",
     "unit" : "กก.",
     "price" : 70,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T06:55:15.517Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T06:55:15.517Z",
     "skuCode" : "aaa001"
 }
 
 /* 2 */
 {
-    "_id" : ObjectId("5e313eb86876d1352941e327"),
+    "_id" : "5e313eb86876d1352941e327",
     "name" : "กระชายสดทั้งหัว",
     "unit" : "กก.",
     "price" : 138,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:13:44.903Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:13:44.903Z",
     "skuCode" : "aaa002"
 }
 
 /* 3 */
 {
-    "_id" : ObjectId("5e313ed86876d107f141e328"),
+    "_id" : "5e313ed86876d107f141e328",
     "name" : "กระชายหัว",
     "unit" : "กก.",
     "price" : 50,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:14:16.347Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:14:16.347Z",
     "skuCode" : "aaa003"
 }
 
 /* 4 */
 {
-    "_id" : ObjectId("5e313ef16876d1185441e329"),
+    "_id" : "5e313ef16876d1185441e329",
     "name" : "กระเทียมกลีบใหญ่",
     "unit" : "กก.",
     "price" : 60,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:14:41.919Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:14:41.919Z",
     "skuCode" : "aaa004"
 }
 
 /* 5 */
 {
-    "_id" : ObjectId("5e313f0c6876d1692941e32a"),
+    "_id" : "5e313f0c6876d1692941e32a",
     "name" : "กระเทียมจีนแกะ",
     "unit" : "กก.",
     "price" : 70,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:15:08.273Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:15:08.273Z",
     "skuCode" : "aaa005"
 }
 
 /* 6 */
 {
-    "_id" : ObjectId("5e313f376876d1bca241e32b"),
+    "_id" : "5e313f376876d1bca241e32b",
     "name" : "กระเทียมจีนหัว",
     "unit" : "กก.",
     "price" : 60,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:15:51.310Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:15:51.310Z",
     "skuCode" : "aaa006"
 }
 
 /* 7 */
 {
-    "_id" : ObjectId("5e313f6f6876d1472741e32c"),
+    "_id" : "5e313f6f6876d1472741e32c",
     "name" : "กระเทียมไทยกลีบเล็ก",
     "unit" : "กก.",
     "price" : 160,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:16:47.005Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:16:47.005Z",
     "skuCode" : "aaa007"
 }
 
 /* 8 */
 {
-    "_id" : ObjectId("5e313f976876d1dea541e32d"),
+    "_id" : "5e313f976876d1dea541e32d",
     "name" : "กะหล่ำปลี",
     "unit" : "กก.",
     "price" : 25,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:17:27.707Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:17:27.707Z",
     "skuCode" : "aaa008",
-    "updateDate" : ISODate("2020-01-29T08:18:11.352Z")
+    "updateDate" : "2020-01-29T08:18:11.352Z"
 }
 
 /* 9 */
 {
-    "_id" : ObjectId("5e313fe56876d1409c41e32e"),
+    "_id" : "5e313fe56876d1409c41e32e",
     "name" : "กะหล่ำดอกไทย",
     "unit" : "กก.",
     "price" : 30,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:18:45.017Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:18:45.017Z",
     "skuCode" : "aaa009"
 }
 
 /* 10 */
 {
-    "_id" : ObjectId("5e31400037a0282d8087b942"),
+    "_id" : "5e31400037a0282d8087b942",
     "name" : "กะหล่ำดอกนอก",
     "unit" : "กก.",
     "price" : 30,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:19:12.613Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:19:12.613Z",
     "skuCode" : "aaa010"
 }
 
 /* 11 */
 {
-    "_id" : ObjectId("5e31403b37a02898c087b943"),
+    "_id" : "5e31403b37a02898c087b943",
     "name" : "กรีนโอ๊ค",
     "unit" : "กก.",
     "price" : 70,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:20:11.825Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:20:11.825Z",
     "skuCode" : "aaa011"
 }
 
 /* 12 */
 {
-    "_id" : ObjectId("5e31404b37a028599e87b944"),
+    "_id" : "5e31404b37a028599e87b944",
     "name" : "กะหล่ำม่วง",
     "unit" : "กก.",
     "price" : 50,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:20:27.198Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:20:27.198Z",
     "skuCode" : "aaa012"
 }
 
 /* 13 */
 {
-    "_id" : ObjectId("5e31405e37a028888187b945"),
+    "_id" : "5e31405e37a028888187b945",
     "name" : "แก่นตะวัน",
     "unit" : "กก.",
     "price" : 59,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:20:46.924Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:20:46.924Z",
     "skuCode" : "aaa013"
 }
 
 /* 14 */
 {
-    "_id" : ObjectId("5e31406c37a0285a8f87b946"),
+    "_id" : "5e31406c37a0285a8f87b946",
     "name" : "ขมิ้นขาว",
     "unit" : "กก.",
     "price" : 65,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:21:00.466Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:21:00.466Z",
     "skuCode" : "aaa014"
 }
 
 /* 15 */
 {
-    "_id" : ObjectId("5e31407a37a02843a087b947"),
+    "_id" : "5e31407a37a02843a087b947",
     "name" : "ขมิ้นเหลือง",
     "unit" : "กก.",
     "price" : 50,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:21:14.716Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:21:14.716Z",
     "skuCode" : "aaa015"
 }
 
 /* 16 */
 {
-    "_id" : ObjectId("5e31408637a028735f87b948"),
+    "_id" : "5e31408637a028735f87b948",
     "name" : "ข่าแก่",
     "unit" : "กก.",
     "price" : 50,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:21:26.535Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:21:26.535Z",
     "skuCode" : "aaa016"
 }
 
 /* 17 */
 {
-    "_id" : ObjectId("5e31409c37a0283ab787b949"),
+    "_id" : "5e31409c37a0283ab787b949",
     "name" : "ข้าวโพดหวานฝัก",
     "unit" : "กก.",
     "price" : 40,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:21:48.951Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:21:48.951Z",
     "skuCode" : "aaa017"
 }
 
 /* 18 */
 {
-    "_id" : ObjectId("5e3140ac37a028599e87b94a"),
+    "_id" : "5e3140ac37a028599e87b94a",
     "name" : "ข้าวโพดอ่อน",
     "unit" : "กก.",
     "price" : 40,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:22:04.726Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:22:04.726Z",
     "skuCode" : "aaa018"
 }
 
 /* 19 */
 {
-    "_id" : ObjectId("5e3140c037a0285abc87b94b"),
+    "_id" : "5e3140c037a0285abc87b94b",
     "name" : "ข่าอ่อน",
     "unit" : "กก.",
     "price" : 65,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:22:24.577Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:22:24.577Z",
     "skuCode" : "aaa019"
 }
 
 /* 20 */
 {
-    "_id" : ObjectId("5e3140cb37a028bc1f87b94c"),
+    "_id" : "5e3140cb37a028bc1f87b94c",
     "name" : "ขิงแก่",
     "unit" : "กก.",
     "price" : 90,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:22:35.434Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:22:35.434Z",
     "skuCode" : "aaa020"
 }
 
 /* 21 */
 {
-    "_id" : ObjectId("5e3140da37a02803c987b94d"),
+    "_id" : "5e3140da37a02803c987b94d",
     "name" : "ขิงซอย",
     "unit" : "กก.",
     "price" : 60,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:22:50.365Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:22:50.365Z",
     "skuCode" : "aaa021"
 }
 
 /* 22 */
 {
-    "_id" : ObjectId("5e3140ed37a028a83487b94e"),
+    "_id" : "5e3140ed37a028a83487b94e",
     "name" : "ขิงสด",
     "unit" : "กก.",
     "price" : 60,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:23:09.214Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:23:09.214Z",
     "skuCode" : "aaa022"
 }
 
 /* 23 */
 {
-    "_id" : ObjectId("5e31419937a028716b87b94f"),
+    "_id" : "5e31419937a028716b87b94f",
     "name" : "คะน้ากลาง",
     "unit" : "กก.",
     "price" : 22,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:26:01.668Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:26:01.668Z",
     "skuCode" : "aaa023"
 }
 
 /* 24 */
 {
-    "_id" : ObjectId("5e3141ad37a0284def87b950"),
-    "name" : "คะน้า (แขนง)",
+    "_id" : "5e3141ad37a0284def87b950",
+    "name" : "คะน้า (แขนง",
     "unit" : "กก.",
     "price" : 40,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:26:21.515Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:26:21.515Z",
     "skuCode" : "aaa024"
 }
 
 /* 25 */
 {
-    "_id" : ObjectId("5e3141c737a02853f587b951"),
+    "_id" : "5e3141c737a02853f587b951",
     "name" : "คะน้ายอด",
     "unit" : "กก.",
     "price" : 27,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:26:47.184Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:26:47.184Z",
     "skuCode" : "aaa025"
 }
 
 /* 26 */
 {
-    "_id" : ObjectId("5e3141d637a028225887b952"),
+    "_id" : "5e3141d637a028225887b952",
     "name" : "คะน้าเล็ก",
     "unit" : "กก.",
     "price" : 22,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:27:02.394Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:27:02.394Z",
     "skuCode" : "aaa026"
 }
 
 /* 27 */
 {
-    "_id" : ObjectId("5e3141e237a028628087b953"),
+    "_id" : "5e3141e237a028628087b953",
     "name" : "คะน้าใหญ่",
     "unit" : "กก.",
     "price" : 22,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:27:14.091Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:27:14.091Z",
     "skuCode" : "aaa027"
 }
 
 /* 28 */
 {
-    "_id" : ObjectId("5e3141f037a02801bc87b954"),
+    "_id" : "5e3141f037a02801bc87b954",
     "name" : "คะน้าฮ่องกง",
     "unit" : "กก.",
     "price" : 70,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:27:28.885Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:27:28.885Z",
     "skuCode" : "aaa028"
 }
 
 /* 29 */
 {
-    "_id" : ObjectId("5e31420737a028082787b955"),
+    "_id" : "5e31420737a028082787b955",
     "name" : "คื่นช่าย",
     "unit" : "กก.",
     "price" : 40,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:27:51.330Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:27:51.330Z",
     "skuCode" : "aaa029"
 }
 
 /* 30 */
 {
-    "_id" : ObjectId("5e31421237a0280d4687b956"),
+    "_id" : "5e31421237a0280d4687b956",
     "name" : "แครอท",
     "unit" : "กก.",
     "price" : 24,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:28:02.907Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:28:02.907Z",
     "skuCode" : "aaa030"
 }
 
 /* 31 */
 {
-    "_id" : ObjectId("5e31422037a02829b887b957"),
+    "_id" : "5e31422037a02829b887b957",
     "name" : "แครอทนอก",
     "unit" : "กก.",
     "price" : 38,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:28:16.684Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:28:16.684Z",
     "skuCode" : "aaa031"
 }
 
 /* 32 */
 {
-    "_id" : ObjectId("5e31424db8372ef95eb8f1f9"),
+    "_id" : "5e31424db8372ef95eb8f1f9",
     "name" : "ชะอม",
     "unit" : "กก.",
     "price" : 35,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:29:01.407Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:29:01.407Z",
     "skuCode" : "aaa032"
 }
 
 /* 33 */
 {
-    "_id" : ObjectId("5e3145d009128ad4b49c8747"),
+    "_id" : "5e3145d009128ad4b49c8747",
     "name" : "ดอกกล้วยไม้",
     "unit" : "กำ",
     "price" : 35,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:44:00.063Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:44:00.063Z",
     "skuCode" : "aaa033"
 }
 
 /* 34 */
 {
-    "_id" : ObjectId("5e3145df09128a2e209c8749"),
+    "_id" : "5e3145df09128a2e209c8749",
     "name" : "ดอกกวางตุ้ง",
     "unit" : "กก.",
     "price" : 48,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:44:15.296Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:44:15.296Z",
     "skuCode" : "aaa034"
 }
 
 /* 35 */
 {
-    "_id" : ObjectId("5e3145f109128a382f9c874a"),
+    "_id" : "5e3145f109128a382f9c874a",
     "name" : "ดอกกะหล่ำขาว",
     "unit" : "กก.",
     "price" : 48,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:44:33.109Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:44:33.109Z",
     "skuCode" : "aaa035"
 }
 
 /* 36 */
 {
-    "_id" : ObjectId("5e31460609128a17899c874b"),
+    "_id" : "5e31460609128a17899c874b",
     "name" : "ดอกกุยช่าย",
     "unit" : "กก.",
     "price" : 50,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:44:54.756Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:44:54.756Z",
     "skuCode" : "aaa036"
 }
 
 /* 37 */
 {
-    "_id" : ObjectId("5e31461d09128a78a29c874c"),
+    "_id" : "5e31461d09128a78a29c874c",
     "name" : "ดอกกุหลาบมอญ",
     "unit" : "กำ",
     "price" : 60,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-29T08:45:17.559Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-29T08:45:17.559Z",
     "skuCode" : "aaa037"
 }
 
 /* 38 */
 {
-    "_id" : ObjectId("5e32499409128a07489c874d"),
+    "_id" : "5e32499409128a07489c874d",
     "name" : "ดอกเกลือ",
     "unit" : "กก.",
     "price" : 34,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:12:20.160Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:12:20.160Z",
     "skuCode" : "aaa038"
 }
 
 /* 39 */
 {
-    "_id" : ObjectId("5e3249c109128a72c19c874e"),
+    "_id" : "5e3249c109128a72c19c874e",
     "name" : "ดอกแค",
     "unit" : "กก.",
     "price" : 55,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:13:05.461Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:13:05.461Z",
     "skuCode" : "aaa039"
 }
 
 /* 40 */
 {
-    "_id" : ObjectId("5e324ac409128a59199c874f"),
+    "_id" : "5e324ac409128a59199c874f",
     "name" : "ดอกบัวชมพู",
     "unit" : "กก.",
     "price" : 14,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:17:24.769Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:17:24.769Z",
     "skuCode" : "aaa040"
 }
 
 /* 41 */
 {
-    "_id" : ObjectId("5e324ad109128a425a9c8750"),
+    "_id" : "5e324ad109128a425a9c8750",
     "name" : "ดอกมะลิ",
     "unit" : "กก.",
     "price" : 12,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:17:37.052Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:17:37.052Z",
     "skuCode" : "aaa041"
 }
 
 /* 42 */
 {
-    "_id" : ObjectId("5e324af009128a511c9c8751"),
+    "_id" : "5e324af009128a511c9c8751",
     "name" : "ดอกอัญชันสด",
     "unit" : "กก.",
     "price" : 950,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:18:08.318Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:18:08.318Z",
     "skuCode" : "aaa042"
 }
 
 /* 43 */
 {
-    "_id" : ObjectId("5e324b0109128a73fe9c8752"),
+    "_id" : "5e324b0109128a73fe9c8752",
     "name" : "ต้นหอม",
     "unit" : "กก.",
     "price" : 45,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:18:25.372Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:18:25.372Z",
     "skuCode" : "aaa043"
 }
 
 /* 44 */
 {
-    "_id" : ObjectId("5e324bb109128a1a499c8753"),
+    "_id" : "5e324bb109128a1a499c8753",
     "name" : "ต้นอ่อนทานตะวัน",
     "unit" : "กก.",
     "price" : 120,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:21:21.261Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:21:21.261Z",
     "skuCode" : "aaa044"
 }
 
 /* 45 */
 {
-    "_id" : ObjectId("5e324bc209128a039a9c8754"),
+    "_id" : "5e324bc209128a039a9c8754",
     "name" : "ตะไคร้",
     "unit" : "กำ",
     "price" : 32,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:21:38.367Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:21:38.367Z",
     "skuCode" : "aaa045"
 }
 
 /* 46 */
 {
-    "_id" : ObjectId("5e324c0509128ae1a29c8755"),
+    "_id" : "5e324c0509128ae1a29c8755",
     "name" : "ตั้งฉ่าย",
     "unit" : "กก.",
     "price" : 50,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:22:45.613Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:22:45.613Z",
     "skuCode" : "aaa046"
 }
 
 /* 47 */
 {
-    "_id" : ObjectId("5e324c1309128a30739c8756"),
+    "_id" : "5e324c1309128a30739c8756",
     "name" : "แตงกวา",
     "unit" : "กก.",
     "price" : 30,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:22:59.264Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:22:59.264Z",
     "skuCode" : "aaa047"
 }
 
 /* 48 */
 {
-    "_id" : ObjectId("5e324c2209128a18d39c8757"),
+    "_id" : "5e324c2209128a18d39c8757",
     "name" : "แตงกวาญี่ปุ่น",
     "unit" : "กก.",
     "price" : 30,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:23:14.843Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:23:14.843Z",
     "skuCode" : "aaa048"
 }
 
 /* 49 */
 {
-    "_id" : ObjectId("5e324c5f09128a20f59c8758"),
+    "_id" : "5e324c5f09128a20f59c8758",
     "name" : "แตงร้าน",
     "unit" : "กก.",
     "price" : 25,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:24:15.368Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:24:15.368Z",
     "skuCode" : "aaa049"
 }
 
 /* 50 */
 {
-    "_id" : ObjectId("5e324c8409128a10149c8759"),
+    "_id" : "5e324c8409128a10149c8759",
     "name" : "ถั่วแขก",
     "unit" : "กก.",
     "price" : 65,
-    "category" : ObjectId("5e312c176876d1400841e325"),
-    "createDate" : ISODate("2020-01-30T03:24:52.618Z"),
+    "category" : "5e312c176876d1400841e325",
+    "createDate" : "2020-01-30T03:24:52.618Z",
     "skuCode" : "aaa050"
 }
     ]
